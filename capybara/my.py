@@ -43,3 +43,4 @@ canvas_right.pack(side="right")
 canvas_down.pack(pady=40)
 
 mainloop()
+#test
